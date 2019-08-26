@@ -1,0 +1,5 @@
+classes=1
+train=/home/dawnblade/Downloads/Yolo-Annotation-Tool-New--master/train.txt
+valid=/home/dawnblade/Downloads/Yolo-Annotation-Tool-New--master/test.txt
+names=cfg/obj.names
+backup=backup/
